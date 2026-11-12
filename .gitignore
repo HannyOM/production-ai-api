@@ -8,6 +8,7 @@ dist/
 # Virtual env (uv)
 .venv/
 venv/
+vitual_env/
 
 # Tooling
 .mypy_cache/
